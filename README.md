@@ -6,7 +6,11 @@ After u download the map you should extracted and put the .vpk file in your 'lef
 After that feel free to join back our server!
 
 <h3> 
-  Dead Echo 2 <a href="https://www.gamemaps.com/mirrors/download/2518/6">(Download)</a>
+  Dead Echo 2 (<a href="https://www.gamemaps.com/mirrors/download/2518/6">Download</a>)
 </h3>
 
-<img src="https://raw.githubusercontent.com/pentr32/nxt-l4d2-custom-maps/main/custom%20maps/dead_echo_2.jpg" />
+<!-- <img src="https://raw.githubusercontent.com/pentr32/nxt-l4d2-custom-maps/main/custom%20maps/dead_echo_2.jpg" /> --> 
+
+<h3>
+  DeadBeat Escape (<a href="https://wwww.gamemaps.com/mirrors/download/9304/6">Download</a>)
+</h3>
