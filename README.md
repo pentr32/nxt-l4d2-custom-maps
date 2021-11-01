@@ -12,5 +12,5 @@ After that feel free to join back our server!
 <!-- <img src="https://raw.githubusercontent.com/pentr32/nxt-l4d2-custom-maps/main/custom%20maps/dead_echo_2.jpg" /> --> 
 
 <h3>
-  DeadBeat Escape (<a href="https://wwww.gamemaps.com/mirrors/download/9304/6">Download</a>)
+  DeadBeat Escape (<a href="https://www.gamemaps.com/mirrors/download/9304/6">Download</a>)
 </h3>
